@@ -1,0 +1,6 @@
+{
+	"desc": "获取当前加速度、实时监听加速度",
+	"requireFormatName": "eeuiAccelerometer",
+	"requireName": "eeui/accelerometer",
+	"title": "加速器"
+}

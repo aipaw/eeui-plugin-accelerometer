@@ -19,7 +19,7 @@ public class accelerometerEntry {
 
         //1、注册weex模块
         try {
-            WXSDKEngine.registerModule("accelerometer", AppaccelerometerModule.class);
+            WXSDKEngine.registerModule("eeuiAccelerometer", AppaccelerometerModule.class);
         } catch (WXException e) {
             e.printStackTrace();
         }

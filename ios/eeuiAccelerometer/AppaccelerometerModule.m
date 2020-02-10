@@ -13,7 +13,7 @@
 
 @implementation AppaccelerometerModule
 
-WX_PlUGIN_EXPORT_MODULE(accelerometer, AppaccelerometerModule)
+WX_PlUGIN_EXPORT_MODULE(eeuiAccelerometer, AppaccelerometerModule)
 WX_EXPORT_METHOD(@selector(get:))
 WX_EXPORT_METHOD(@selector(watch::))
 WX_EXPORT_METHOD(@selector(clearWatch:))
